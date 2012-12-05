@@ -10,6 +10,12 @@ This task will install all SHARYANTO's patch modules.
 
 =pkg HTTP::Daemon::Patch::IPv6
 
+=pkg HTTP::Headers::Patch::DontUseStorable
+
+=pkg Log::Any::Adapter::Core::Patch::SetDumperIndent
+
+=pkg Log::Any::Adapter::Core::Patch::UseDataDump
+
 =pkg LWP::UserAgent::Patch::HTTPSHardTimeout
 
 =pkg LWP::UserAgent::Patch::LogResponse
