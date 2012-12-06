@@ -16,6 +16,8 @@ This task will install all SHARYANTO's patch modules.
 
 =pkg Log::Any::Adapter::Core::Patch::UseDataDump
 
+=pkg Log::Any::Adapter::Core::Patch::UseDataDumperPerltidy
+
 =pkg LWP::UserAgent::Patch::HTTPSHardTimeout
 
 =pkg LWP::UserAgent::Patch::LogResponse
