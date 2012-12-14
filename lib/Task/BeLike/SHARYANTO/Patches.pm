@@ -24,6 +24,8 @@ This task will install all SHARYANTO's patch modules.
 
 =pkg Net::HTTP::Methods::Patch::LogRequest
 
+=pkg Time::Duration::Patch::Millisecond
+
 =pkg UUID::Random::Patch::UseMRS
 
 =cut
