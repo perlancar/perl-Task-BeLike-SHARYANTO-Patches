@@ -12,6 +12,8 @@ This task will install all SHARYANTO's patch modules.
 
 =pkg HTTP::Headers::Patch::DontUseStorable
 
+=pkg HTTP::Tiny::Patch::LogAny
+
 =pkg Log::Any::Adapter::Core::Patch::SetDumperIndent
 
 =pkg Log::Any::Adapter::Core::Patch::UseDataDump
