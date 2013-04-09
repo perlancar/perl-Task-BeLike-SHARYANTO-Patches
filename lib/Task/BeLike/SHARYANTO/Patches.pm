@@ -22,6 +22,8 @@ This task will install all SHARYANTO's patch modules.
 
 =pkg LWP::UserAgent::Patch::HTTPSHardTimeout
 
+=pkg LWP::UserAgent::Patch::LogRequestContent
+
 =pkg LWP::UserAgent::Patch::LogResponse
 
 =pkg Net::HTTP::Methods::Patch::LogRequest
